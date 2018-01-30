@@ -1,3 +1,14 @@
 # emacs
 *~
+
+examples/demo
+examples/Firewall
+examples/Forwarding
+examples/dump
+examples/clonable_pcap_dumper
+examples/kni
+examples/copy
+examples/gopacket_parser_example
+examples/ErrorHandling
+test/stash/send_fixed_number
 doc

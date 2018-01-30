@@ -5,7 +5,7 @@
 PATH_TO_MK = ../mk
 IMAGENAME = nff-go-examples
 EXECUTABLES = demo dump Forwarding Firewall clonable_pcap_dumper kni copy ErrorHandling
-SUBDIRS = nat tutorial antiddos
+SUBDIRS = nat tutorial antiddos dpi
 
 gopacket:
 	go get -v github.com/google/gopacket
