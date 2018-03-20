@@ -139,6 +139,7 @@ const (
 	InvalidCPURangeErr
 	SetAffinityErr
 	MultipleReceivePort
+	ScalarToVectorErr
 )
 
 // NFError is error type returned by nff-go functions
